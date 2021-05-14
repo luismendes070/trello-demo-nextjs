@@ -1,6 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "@trello-demo/admin-nextjs",
   "version": "1.0.0",
+  "description": "your trello tasks with your timedoctor trial time duration",
   "scripts": {
     "dev": "next",
     "build": "next build",
