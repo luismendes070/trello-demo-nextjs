@@ -2,7 +2,11 @@
   "name": "trello-demo",
   "private": true,
   "devDependencies": {
+    "jest": "^26.6.3",
     "lerna": "^4.0.0",
     "netlify-cli": "^3.29.14"
+  },
+  "dependencies": {
+    "snyk": "^1.595.0"
   }
 }
