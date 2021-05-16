@@ -1,6 +1,6 @@
 {
   "name": "@trello-demo/admin-nextjs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "your trello tasks with your timedoctor trial time duration",
   "scripts": {
     "dev": "next",
@@ -8,7 +8,8 @@
     "start": "next start",
     "test": "jest",
     "lint": "eslint",
-    "prettier": "prettier"
+    "prettier": "prettier",
+    "publish":"publish"
   },
   "dependencies": {
     "next": "latest",
